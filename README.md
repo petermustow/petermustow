@@ -27,6 +27,7 @@
 <img align="left" alt="Windows Terminal" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg" />
 <img align="left" alt="Powershell" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powershell.svg" />
 <img align="left" alt="JSON" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/json.svg" />
+<img align="left" alt="Android" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/terraform.svg" />
 <img align="left" alt="Microsoft Azure" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg" />
 <img align="left" alt="Microsoft Azure DevOps" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/azuredevops.svg" />
 <img align="left" alt="Microsoft Azure Pipeline" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/azurepipelines.svg" />
