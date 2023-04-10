@@ -12,23 +12,6 @@
 
 <br />
 
-### Platforms, Tools & Languages:
-
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
-<img align="left" alt="Windows Terminal" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg" />
-<img align="left" alt="Powershell" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powershell.svg" />
-<img align="left" alt="JSON" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/json.svg" />
-<img align="left" alt="Android" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/terraform.svg" />
-<img align="left" alt="Microsoft Azure" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg" />
-<img align="left" alt="Microsoft Azure DevOps" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/azuredevops.svg" />
-<img align="left" alt="Microsoft Azure Pipeline" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/azurepipelines.svg" />
-<img align="left" alt="Microsoft Azure Funtions" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/azurefunctions.svg" />
-<img align="left" alt="Amazon Web Services" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" />
-<img align="left" alt="Google Cloud" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg" />
-<img align="left" alt="Android" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/android.svg" />
-
-<br />
-
 [twitter]: https://twitter.com/petermustow
 [linkedin]: https://linkedin.com/in/pmustow
 [blog]: https://medium.com/@petermustow
