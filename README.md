@@ -90,8 +90,6 @@ Bash         ███████████████████░░  90
 - **Routing Protocols:** EIGRP, OSPF, BGP
 - **Network Security:** pfSense, OPNsense, Firewalls, VPNs
 - **Cloud Networking:** VNets, VPCs, Load Balancers, NSGs, Security Groups
-- **VoIP & Unified Communications**
-- **Cisco Technologies**
 
 ### 📊 Monitoring & Observability
 
@@ -100,7 +98,7 @@ Bash         ███████████████████░░  90
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 - **Tools:** Grafana, Prometheus, Azure Monitor, CloudWatch
-- **ITSM:** GLPI, Centreon, Zabbix, Wazuh, Nagios
+- **ITSM:** Atlassian Jira & Confulence, Service Now, Data Dog, Zabbix, PagerDuty, Nagios
 - **Logging & Analytics:** Application Insights, Log Analytics
 
 ### 🔄 DevOps & CI/CD
