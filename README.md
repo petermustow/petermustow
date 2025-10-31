@@ -156,6 +156,8 @@ Bash         ███████████████████░░  90
 - **Cloud Networking:** VNets, VPCs, Load Balancers, NSGs, Security Groups, Transit Gateway
 - **VoIP & Unified Communications:** SIP, Teams, WebRTC
 - **Cisco Technologies:** Switching, Routing, Security Appliances
+- **Network Security:** pfSense, OPNsense, Firewalls, VPNs
+- **Cloud Networking:** VNets, VPCs, Load Balancers, NSGs, Security Groups
 
 ### 📊 Monitoring & Observability
 
@@ -164,10 +166,10 @@ Bash         ███████████████████░░  90
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-- **Observability Stack:** Grafana, Prometheus, Loki, Tempo, Jaeger
-- **Cloud Monitoring:** Azure Monitor, CloudWatch, Application Insights, Log Analytics
-- **ITSM:** GLPI, Centreon, Zabbix, Wazuh, Nagios
-- **APM:** Application Insights, Datadog, New Relic
+- **Tools:** Grafana, Prometheus, Azure Monitor, CloudWatch
+- **ITSM:** Atlassian Jira & Confulence, Service Now, Data Dog, Zabbix, PagerDuty, Nagios
+- **Logging & Analytics:** Application Insights, Log Analytics
+
 
 ### 🔄 DevOps & CI/CD
 
