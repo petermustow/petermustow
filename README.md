@@ -212,20 +212,6 @@ Bash         ███████████████████░░  90
 
 ---
 
-## 🌟 Featured Projects
-
-### [🪟 Winget Installer](https://github.com/petermustow/winget)
-Application setup script for automated Windows software deployment using Windows Package Manager.
-
-**Tech Stack:** PowerShell, Windows Package Manager, Automation
-
-**Highlights:**
-- 🚀 One-command software deployment
-- 📦 Package management automation
-- ⚙️ Configuration-driven installations
-
----
-
 ## 🎯 Areas of Focus
 
 ```mermaid
@@ -284,24 +270,6 @@ mindmap
 
 ---
 
-## 🎤 Speaking & Community Engagement
-
-### Conference Talks & Presentations
-
-- 🎙️ **Azure Community Meetups** - Regular speaker on cloud architecture and DevOps
-- 📍 **Cloud Architecture Summit** - "FinOps in Practice: Real-World Cost Optimization"
-- 📍 **DevOps Days** - "Building Platform Engineering Teams"
-- 📍 **Local Tech Meetups** - Monthly presentations on cloud technologies
-
-### Community Involvement
-
-- 👥 **Mentorship:** Active mentor for aspiring cloud architects
-- 💬 **Technical Forums:** Regular contributor to Stack Overflow and Azure communities
-- 🎓 **Training:** Conducted workshops on Terraform, Kubernetes, and Azure
-- 📝 **Knowledge Base:** Building comprehensive cloud architecture documentation
-
----
-
 ## 📚 Recommended Resources
 
 ### Essential Books
@@ -353,52 +321,6 @@ I'm always interested in discussing cloud architecture, infrastructure automatio
 - 🤝 **Consulting Projects** - Enterprise cloud transformations
 - 👨‍🏫 **Mentorship** - Helping cloud professionals level up
 - 📝 **Technical Writing** - Guest posts and collaborative content
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 When not architecting clouds, I'm building Minecraft servers (infrastructure everywhere!)
-- ☕ Coffee consumption scales linearly with infrastructure complexity
-- 🏃 Marathon runner - endurance in code and in life
-- 📚 Read 50+ tech books annually and counting
-- 🌍 Visited 12 AWS regions (personally, not just my code!)
-- 🎸 Play guitar - debugging is just another form of troubleshooting chords
-- 🌱 Homelab enthusiast with a rack that rivals small datacenters
-
----
-
-## 🏆 Success Stories & Case Studies
-
-### 🚀 Global E-Commerce Platform Migration
-
-**Challenge:** Migrate legacy monolithic application to cloud-native microservices
-**Solution:** Implemented Azure AKS with Istio service mesh, full CI/CD automation with GitHub Actions
-**Results:**
-- 💰 60% infrastructure cost reduction
-- 📈 99.99% uptime achievement
-- ⚡ 10x deployment frequency increase
-- 🔒 Zero-downtime migration
-
-### 🏢 Multi-Cloud Governance Framework
-
-**Challenge:** Standardize security and compliance across Azure and AWS estates
-**Solution:** Policy-as-Code using Terraform, Azure Policy, and AWS Service Control Policies
-**Results:**
-- ✅ 100% compliance across all cloud resources
-- 🤖 Automated remediation reducing manual effort by 90%
-- 📊 Audit-ready posture with complete traceability
-- 🔐 Unified security baseline across clouds
-
-### 💰 Enterprise FinOps Implementation
-
-**Challenge:** Uncontrolled cloud spend across 200+ subscriptions
-**Solution:** Implemented comprehensive FinOps practice with tagging strategy, cost allocation, and showback
-**Results:**
-- 📉 40% reduction in overall cloud spend
-- 👁️ 100% cost visibility and accountability
-- 🎯 Chargeback model driving behavior change
-- 📊 Executive dashboards for data-driven decisions
 
 ---
 
