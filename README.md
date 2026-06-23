@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Peter Mustow
 ### ☁️ Cloud Principal | Azure Specialist | Cloud Architecture Leader
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmustow/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petermustow/)
 [![GitHub followers](https://img.shields.io/github/followers/petermustow?label=Follow&style=for-the-badge&logo=github)](https://github.com/petermustow)
 ![Profile Views](https://komarev.com/ghpvc/?username=petermustow&color=0078D4&style=for-the-badge)
 
