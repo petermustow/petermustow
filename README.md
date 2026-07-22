@@ -147,17 +147,16 @@ Bash         ███████████████████░░  90
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Nutanix](https://img.shields.io/badge/Nutanix-024DA1?style=for-the-badge&logo=nutanix&logoColor=white)
+![Azure Local](https://img.shields.io/badge/Azure_Local-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🌐 Networking & Security
 
 - **Routing Protocols:** EIGRP, OSPF, BGP
 - **Network Security:** pfSense, OPNsense, Firewalls, VPNs, WAF
-- **Cloud Networking:** VNets, VPCs, Load Balancers, NSGs, Security Groups, Transit Gateway
+- **Cloud Networking:** Virtual Network, Virtual WAN, ExpressRoute, VPN Gateway, NAT Gateway, Azure Bastion, Azure Load Balancer, Application Gateway, Azure Front Door, Traffic Manager, User-Defined Routes, Network Security Group, Application Security Group, Azure Firewall, Web Application Firewall, Azure Private Link, Azure DDoS Protection, Network Watcher, Azure Virtual Network Manager, Azure DNS
 - **VoIP & Unified Communications:** SIP, Teams, WebRTC
 - **Cisco Technologies:** Switching, Routing, Security Appliances
-- **Network Security:** pfSense, OPNsense, Firewalls, VPNs
-- **Cloud Networking:** VNets, VPCs, Load Balancers, NSGs, Security Groups
 
 ### 📊 Monitoring & Observability
 
@@ -166,9 +165,9 @@ Bash         ███████████████████░░  90
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-- **Tools:** Grafana, Prometheus, Azure Monitor, CloudWatch
-- **ITSM:** Atlassian Jira & Confulence, Service Now, Data Dog, Zabbix, PagerDuty, Nagios
-- **Logging & Analytics:** Application Insights, Log Analytics
+- **Tools:** Azure Monitor, CloudWatch, Grafana, Prometheus, Splunk, Data Dog, Zabbix, Nagios
+- **ITSM:** Atlassian Jira & Confluence, Service Now, Autotask, PagerDuty
+- **Logging & Analytics:** Application Insights, Log Analytics, Greylog
 
 
 ### 🔄 DevOps & CI/CD
@@ -180,49 +179,9 @@ Bash         ███████████████████░░  90
 
 - **Version Control:** Git, GitHub, Azure Repos, GitLab
 - **CI/CD Pipelines:** GitHub Actions, Azure DevOps Pipelines, Jenkins
-- **GitOps:** ArgoCD, Flux, Atlantis
+- **GitOps:** ArgoCD
 - **Containerization:** Docker, Kubernetes, Podman
 - **Automation:** Jenkins, Azure Automation, Rundeck
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=petermustow&theme=darkhub&no-frame=true&row=1&column=7)
-
-</div>
-
-<div align="center">
-
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petermustow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermustow&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petermustow&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-[![Peter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=petermustow&theme=tokyo-night&hide_border=true)](https://github.com/petermustow)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### [🪟 Winget Installer](https://github.com/petermustow/winget)
-Application setup script for automated Windows software deployment using Windows Package Manager.
-
-**Tech Stack:** PowerShell, Windows Package Manager, Automation
-
-**Highlights:**
-- 🚀 One-command software deployment
-- 📦 Package management automation
-- ⚙️ Configuration-driven installations
 
 ---
 
@@ -284,24 +243,6 @@ mindmap
 
 ---
 
-## 🎤 Speaking & Community Engagement
-
-### Conference Talks & Presentations
-
-- 🎙️ **Azure Community Meetups** - Regular speaker on cloud architecture and DevOps
-- 📍 **Cloud Architecture Summit** - "FinOps in Practice: Real-World Cost Optimization"
-- 📍 **DevOps Days** - "Building Platform Engineering Teams"
-- 📍 **Local Tech Meetups** - Monthly presentations on cloud technologies
-
-### Community Involvement
-
-- 👥 **Mentorship:** Active mentor for aspiring cloud architects
-- 💬 **Technical Forums:** Regular contributor to Stack Overflow and Azure communities
-- 🎓 **Training:** Conducted workshops on Terraform, Kubernetes, and Azure
-- 📝 **Knowledge Base:** Building comprehensive cloud architecture documentation
-
----
-
 ## 📚 Recommended Resources
 
 ### Essential Books
@@ -353,52 +294,6 @@ I'm always interested in discussing cloud architecture, infrastructure automatio
 - 🤝 **Consulting Projects** - Enterprise cloud transformations
 - 👨‍🏫 **Mentorship** - Helping cloud professionals level up
 - 📝 **Technical Writing** - Guest posts and collaborative content
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 When not architecting clouds, I'm building Minecraft servers (infrastructure everywhere!)
-- ☕ Coffee consumption scales linearly with infrastructure complexity
-- 🏃 Marathon runner - endurance in code and in life
-- 📚 Read 50+ tech books annually and counting
-- 🌍 Visited 12 AWS regions (personally, not just my code!)
-- 🎸 Play guitar - debugging is just another form of troubleshooting chords
-- 🌱 Homelab enthusiast with a rack that rivals small datacenters
-
----
-
-## 🏆 Success Stories & Case Studies
-
-### 🚀 Global E-Commerce Platform Migration
-
-**Challenge:** Migrate legacy monolithic application to cloud-native microservices
-**Solution:** Implemented Azure AKS with Istio service mesh, full CI/CD automation with GitHub Actions
-**Results:**
-- 💰 60% infrastructure cost reduction
-- 📈 99.99% uptime achievement
-- ⚡ 10x deployment frequency increase
-- 🔒 Zero-downtime migration
-
-### 🏢 Multi-Cloud Governance Framework
-
-**Challenge:** Standardize security and compliance across Azure and AWS estates
-**Solution:** Policy-as-Code using Terraform, Azure Policy, and AWS Service Control Policies
-**Results:**
-- ✅ 100% compliance across all cloud resources
-- 🤖 Automated remediation reducing manual effort by 90%
-- 📊 Audit-ready posture with complete traceability
-- 🔐 Unified security baseline across clouds
-
-### 💰 Enterprise FinOps Implementation
-
-**Challenge:** Uncontrolled cloud spend across 200+ subscriptions
-**Solution:** Implemented comprehensive FinOps practice with tagging strategy, cost allocation, and showback
-**Results:**
-- 📉 40% reduction in overall cloud spend
-- 👁️ 100% cost visibility and accountability
-- 🎯 Chargeback model driving behavior change
-- 📊 Executive dashboards for data-driven decisions
 
 ---
 
