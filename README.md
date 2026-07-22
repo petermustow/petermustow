@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Peter Mustow
-### ☁️ Cloud Principal | Azure Specialist | Cloud Architecture Leader
+### ☁️ Cloud Principal | Azure Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petermustow/)
 [![GitHub followers](https://img.shields.io/github/followers/petermustow?label=Follow&style=for-the-badge&logo=github)](https://github.com/petermustow)
@@ -52,19 +52,10 @@ As a **Cloud Principal**, I lead cloud transformation initiatives and architect 
 
 ## 🎓 Certifications & Credentials
 
-### Microsoft Azure
 ![Azure Solutions Architect Expert](https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps Engineer Expert](https://img.shields.io/badge/Azure_DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Security Engineer](https://img.shields.io/badge/Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Amazon Web Services
-![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS SysOps Administrator](https://img.shields.io/badge/AWS_SysOps_Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Professional Certifications
-![HashiCorp Terraform](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -100,24 +91,6 @@ As a **Cloud Principal**, I lead cloud transformation initiatives and architect 
 </tr>
 </table>
 
-### 🛠️ Infrastructure as Code & Automation
-
-```text
-Terraform    ████████████████████░  95%
-Ansible      ███████████████████░░  90%
-Bicep        ██████████████████░░░  85%
-ARM          ████████████████░░░░░  80%
-PowerShell   ███████████████████░░  90%
-Python       ██████████████████░░░  85%
-Bash         ███████████████████░░  90%
-```
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ### 🧰 Extended Tech Stack
 
 **Cloud Native & Container Orchestration:**
@@ -152,11 +125,7 @@ Bash         ███████████████████░░  90
 
 ### 🌐 Networking & Security
 
-- **Routing Protocols:** EIGRP, OSPF, BGP
-- **Network Security:** pfSense, OPNsense, Firewalls, VPNs, WAF
 - **Cloud Networking:** Virtual Network, Virtual WAN, ExpressRoute, VPN Gateway, NAT Gateway, Azure Bastion, Azure Load Balancer, Application Gateway, Azure Front Door, Traffic Manager, User-Defined Routes, Network Security Group, Application Security Group, Azure Firewall, Web Application Firewall, Azure Private Link, Azure DDoS Protection, Network Watcher, Azure Virtual Network Manager, Azure DNS
-- **VoIP & Unified Communications:** SIP, Teams, WebRTC
-- **Cisco Technologies:** Switching, Routing, Security Appliances
 
 ### 📊 Monitoring & Observability
 
